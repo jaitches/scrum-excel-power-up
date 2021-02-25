@@ -1,0 +1,24 @@
+{
+  "name": "scrum-excel-power-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^15.8.0",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaitches/scrum-excel-power-up.git"
+  },
+  "author": "jen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaitches/scrum-excel-power-up/issues"
+  },
+  "homepage": "https://github.com/jaitches/scrum-excel-power-up#readme"
+}
